@@ -18,4 +18,4 @@
   
 ### Contact Me
 <a href="https://www.linkedin.com/in/david-gatto-451aba255/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Gatto-blue?style=flat-square&logo=linkedin"></a>
-<a href="maurovera069@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-daviddgatto@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a ><img alt="Email" src="https://img.shields.io/badge/Gmail-daviddgatto@gmail.com-red?style=flat-square&logo=gmail"></a>
